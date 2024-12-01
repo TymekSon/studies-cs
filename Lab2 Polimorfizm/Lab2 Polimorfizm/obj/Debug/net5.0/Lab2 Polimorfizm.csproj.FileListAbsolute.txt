@@ -1,0 +1,16 @@
+I:\Programming\C# 24x25\Lab2 Polimorfizm\Lab2 Polimorfizm\obj\Debug\net5.0\Lab2 Polimorfizm.csproj.AssemblyReference.cache
+I:\Programming\C# 24x25\Lab2 Polimorfizm\Lab2 Polimorfizm\obj\Debug\net5.0\Lab2 Polimorfizm.GeneratedMSBuildEditorConfig.editorconfig
+I:\Programming\C# 24x25\Lab2 Polimorfizm\Lab2 Polimorfizm\obj\Debug\net5.0\Lab2 Polimorfizm.AssemblyInfoInputs.cache
+I:\Programming\C# 24x25\Lab2 Polimorfizm\Lab2 Polimorfizm\obj\Debug\net5.0\Lab2 Polimorfizm.AssemblyInfo.cs
+I:\Programming\C# 24x25\Lab2 Polimorfizm\Lab2 Polimorfizm\obj\Debug\net5.0\Lab2 Polimorfizm.csproj.CoreCompileInputs.cache
+I:\Programming\C# 24x25\Lab2 Polimorfizm\Lab2 Polimorfizm\bin\Debug\net5.0\Lab2 Polimorfizm.exe
+I:\Programming\C# 24x25\Lab2 Polimorfizm\Lab2 Polimorfizm\bin\Debug\net5.0\Lab2 Polimorfizm.deps.json
+I:\Programming\C# 24x25\Lab2 Polimorfizm\Lab2 Polimorfizm\bin\Debug\net5.0\Lab2 Polimorfizm.runtimeconfig.json
+I:\Programming\C# 24x25\Lab2 Polimorfizm\Lab2 Polimorfizm\bin\Debug\net5.0\Lab2 Polimorfizm.runtimeconfig.dev.json
+I:\Programming\C# 24x25\Lab2 Polimorfizm\Lab2 Polimorfizm\bin\Debug\net5.0\Lab2 Polimorfizm.dll
+I:\Programming\C# 24x25\Lab2 Polimorfizm\Lab2 Polimorfizm\bin\Debug\net5.0\ref\Lab2 Polimorfizm.dll
+I:\Programming\C# 24x25\Lab2 Polimorfizm\Lab2 Polimorfizm\bin\Debug\net5.0\Lab2 Polimorfizm.pdb
+I:\Programming\C# 24x25\Lab2 Polimorfizm\Lab2 Polimorfizm\obj\Debug\net5.0\Lab2 Polimorfizm.dll
+I:\Programming\C# 24x25\Lab2 Polimorfizm\Lab2 Polimorfizm\obj\Debug\net5.0\ref\Lab2 Polimorfizm.dll
+I:\Programming\C# 24x25\Lab2 Polimorfizm\Lab2 Polimorfizm\obj\Debug\net5.0\Lab2 Polimorfizm.pdb
+I:\Programming\C# 24x25\Lab2 Polimorfizm\Lab2 Polimorfizm\obj\Debug\net5.0\Lab2 Polimorfizm.genruntimeconfig.cache

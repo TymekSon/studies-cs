@@ -1,0 +1,14 @@
+C:\Users\st55642\source\repos\C#\Lab1-Konwerter_csv_do_html\Lab1-Konwerter_csv_do_html\obj\Debug\Lab1-Konwerter_csv_do_html.csproj.AssemblyReference.cache
+C:\Users\st55642\source\repos\C#\Lab1-Konwerter_csv_do_html\Lab1-Konwerter_csv_do_html\obj\Debug\Lab1-Konwerter_csv_do_html.csproj.CoreCompileInputs.cache
+C:\Users\st55642\source\repos\C#\Lab1-Konwerter_csv_do_html\Lab1-Konwerter_csv_do_html\bin\Debug\Lab1-Konwerter_csv_do_html.exe.config
+C:\Users\st55642\source\repos\C#\Lab1-Konwerter_csv_do_html\Lab1-Konwerter_csv_do_html\bin\Debug\Lab1-Konwerter_csv_do_html.exe
+C:\Users\st55642\source\repos\C#\Lab1-Konwerter_csv_do_html\Lab1-Konwerter_csv_do_html\bin\Debug\Lab1-Konwerter_csv_do_html.pdb
+C:\Users\st55642\source\repos\C#\Lab1-Konwerter_csv_do_html\Lab1-Konwerter_csv_do_html\obj\Debug\Lab1-Konwerter_csv_do_html.exe
+C:\Users\st55642\source\repos\C#\Lab1-Konwerter_csv_do_html\Lab1-Konwerter_csv_do_html\obj\Debug\Lab1-Konwerter_csv_do_html.pdb
+I:\Programming\C# 24x25\Lab1-Konwerter_csv_do_html\Lab1-Konwerter_csv_do_html\bin\Debug\Lab1-Konwerter_csv_do_html.exe.config
+I:\Programming\C# 24x25\Lab1-Konwerter_csv_do_html\Lab1-Konwerter_csv_do_html\bin\Debug\Lab1-Konwerter_csv_do_html.exe
+I:\Programming\C# 24x25\Lab1-Konwerter_csv_do_html\Lab1-Konwerter_csv_do_html\bin\Debug\Lab1-Konwerter_csv_do_html.pdb
+I:\Programming\C# 24x25\Lab1-Konwerter_csv_do_html\Lab1-Konwerter_csv_do_html\obj\Debug\Lab1-Konwerter_csv_do_html.csproj.AssemblyReference.cache
+I:\Programming\C# 24x25\Lab1-Konwerter_csv_do_html\Lab1-Konwerter_csv_do_html\obj\Debug\Lab1-Konwerter_csv_do_html.csproj.CoreCompileInputs.cache
+I:\Programming\C# 24x25\Lab1-Konwerter_csv_do_html\Lab1-Konwerter_csv_do_html\obj\Debug\Lab1-Konwerter_csv_do_html.exe
+I:\Programming\C# 24x25\Lab1-Konwerter_csv_do_html\Lab1-Konwerter_csv_do_html\obj\Debug\Lab1-Konwerter_csv_do_html.pdb
